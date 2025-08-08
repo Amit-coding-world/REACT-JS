@@ -1,0 +1,2 @@
+you have to use an api and display the data in the form of a card under a container. all the data points returned by the api should be converted to a card
+use this api - https://jsonplaceholder.typicode.com/posts
